@@ -6,5 +6,8 @@ koa2 + mongodb
 
 开启项目
 ```
+安装依赖
+npm i 
+启动
 npm start
 ```
